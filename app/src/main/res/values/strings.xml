@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">andersen_home_work_3_view</string>
+    <string name="next_screen">Next screen</string>
+    <string name="url_picture">Введите адрес картинки</string>
+    <string name="library_loading">загрузка библиотекой</string>
+    <string name="standard_loading">загрузка стандартными средствами</string>
+</resources>
